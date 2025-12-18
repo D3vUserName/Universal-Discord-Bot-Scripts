@@ -10,3 +10,5 @@ A collection of reusable and modular Discord bot scripts written in Python. This
 - Python 3.8 or higher
 - Discord Bot Token ([Get one here](https://discord.com/developers/applications))
 - FFmpeg installed (for audio features)
+
+> 🇵🇱 Note: All scripts in this repository are written in Polish.
