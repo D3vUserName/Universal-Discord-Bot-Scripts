@@ -1,3 +1,11 @@
+
+![Discord Scripts](assets/banner.png)
+
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
+
+
 # Universal Discord Bot Scripts
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Discord.py](https://img.shields.io/badge/discord.py-2.0+-blue.svg)
