@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/D3vUserName/Universal-Discord-Bot-Scripts/main/assets/banner.png" alt="Universal Discord Bot Scripts">
 </p>
 
 
