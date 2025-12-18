@@ -1,6 +1,8 @@
-# Universal-Discord-Bot-Scripts
+# Universal Discord Bot Scripts
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Discord.py](https://img.shields.io/badge/discord.py-2.0+-blue.svg)
+![AsyncIO](https://img.shields.io/badge/asyncio-built--in-blue.svg)
+![FFmpeg](https://img.shields.io/badge/ffmpeg-required-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
