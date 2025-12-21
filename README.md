@@ -26,7 +26,7 @@ Clean and extendable structure
 Compatible with discord.py 2.x
 
 ## 📂 Project Structure
-
+```
 Single Commands/
 ├─ 4fun/
 │ ├─ 8ball.py
@@ -47,6 +47,7 @@ Systems/
 ├─ level.py
 ├─ musicvc.py
 └─ tickets.py
+```
 
 ### Requisites
 - Python 3.8 or higher
