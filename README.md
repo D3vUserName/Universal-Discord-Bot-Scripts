@@ -17,7 +17,7 @@ A collection of reusable and modular Discord bot scripts written in Python. This
 > 📌 Note: The repo is constantly updated.
 
 ## ✨ Features
-
+```
 Modular command-based architecture
 Ready-to-use fun commands (memes, jokes, trivia, polls, giveaways)
 Moderation system with configurable levels
@@ -25,6 +25,7 @@ Music system (FFmpeg required)
 Ticket system for support/help desks
 Clean and extendable structure
 Compatible with discord.py 2.x
+```
 
 ## 📂 Project Structure
 ```
