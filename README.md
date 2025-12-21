@@ -61,4 +61,7 @@ Commands can be freely edited or translated
 Permission checks can be adjusted per command
 Systems (moderation, levels, tickets) are designed to be expandable
 
+## ⭐ Support
+If you find this repository useful, consider leaving a ⭐ on GitHub!
+
 
