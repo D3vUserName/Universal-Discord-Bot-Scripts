@@ -13,9 +13,49 @@
 
 A collection of reusable and modular Discord bot scripts written in Python. This repository is designed to help developers quickly build, customize, and extend Discord bots by providing ready-to-use components, utilities, and examples that follow clean and scalable coding practices.
 
+> 📌 Note: All scripts in this repository are written in Polish.
+
+## ✨ Features
+
+Modular command-based architecture
+Ready-to-use fun commands (memes, jokes, trivia, polls, giveaways)
+Moderation system with configurable levels
+Music system (FFmpeg required)
+Ticket system for support/help desks
+Clean and extendable structure
+Compatible with discord.py 2.x
+
+## 📂 Project Structure
+
+``Single Commands/
+├─ 4fun/
+│ ├─ 8ball.py
+│ ├─ animal.py
+│ ├─ jokes.py
+│ ├─ meme.py
+│ ├─ quote.py
+│ ├─ rps.py
+│ └─ trivia.py
+├─ giveaway.py
+├─ poll.py
+├─ serverinfo.py
+└─ userinfo.py
+Systems/
+├─ moderation/
+│ ├─ config.json
+│ └─ modsys.py
+├─ level.py
+├─ musicvc.py
+└─ tickets.py``
+
 ### Requisites
 - Python 3.8 or higher
 - Discord Bot Token ([Get one here](https://discord.com/developers/applications))
 - FFmpeg installed (for audio features)
 
-> Note: All scripts in this repository are written in Polish.
+## 🛠 Customization
+Commands can be freely edited or translated
+Permission checks can be adjusted per command
+Systems (moderation, levels, tickets) are designed to be expandable
+
+
