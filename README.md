@@ -14,6 +14,7 @@
 A collection of reusable and modular Discord bot scripts written in Python. This repository is designed to help developers quickly build, customize, and extend Discord bots by providing ready-to-use components, utilities, and examples that follow clean and scalable coding practices.
 
 > 📌 Note: All scripts in this repository are written in Polish.
+> 📌 Note: The repo is constantly updated.
 
 ## ✨ Features
 
