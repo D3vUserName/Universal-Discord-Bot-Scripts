@@ -1,0 +1,40 @@
+{
+    "token": "",
+    "prefix": "!",
+    "admin_roles": [123456789012345678, 987654321098765432],
+    "log_channel_id": null,
+    "automod": {
+        "max_caps_percentage": 70,
+        "max_message_length": 500,
+        "max_messages_per_second": 3,
+        "max_mentions": 5,
+        "blocked_links": ["discord.gg/", "discord.com/invite/", "bit.ly/"],
+        "allowed_domains": ["discord.com", "github.com", "youtube.com"],
+        "anti_spam": {
+            "enabled": true,
+            "message_limit": 5,
+            "timeframe": 5,
+            "mute_duration": 300
+        },
+        "anti_caps": {
+            "enabled": true,
+            "min_length": 10,
+            "action": "delete"
+        },
+        "anti_links": {
+            "enabled": true,
+            "whitelist_channels": [],
+            "action": "warn"
+        }
+    },
+    "warnings": {
+        "max_warnings": 3,
+        "punishments": [
+            {"warnings": 1, "action": "mute", "duration": 300},
+            {"warnings": 2, "action": "mute", "duration": 1800},
+            {"warnings": 3, "action": "kick"},
+            {"warnings": 4, "action": "ban", "duration": 86400}
+        ]
+    },
+    "temp_punishments_check_interval": 60
+}
