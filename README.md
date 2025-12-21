@@ -27,7 +27,7 @@ Compatible with discord.py 2.x
 
 ## 📂 Project Structure
 
-`Single Commands/
+Single Commands/
 ├─ 4fun/
 │ ├─ 8ball.py
 │ ├─ animal.py
@@ -46,7 +46,7 @@ Systems/
 │ └─ modsys.py
 ├─ level.py
 ├─ musicvc.py
-└─ tickets.py`
+└─ tickets.py
 
 ### Requisites
 - Python 3.8 or higher
