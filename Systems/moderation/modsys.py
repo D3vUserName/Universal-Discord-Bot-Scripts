@@ -1184,7 +1184,7 @@ class ModerationSystem:
         
         return None
 
-class AdvancedModerationBot(commands.Bot):
+class ModerationBot(commands.Bot):
     def __init__(self):
         intents = discord.Intents.default()
         intents.messages = True
@@ -1375,5 +1375,5 @@ if __name__ == "__main__":
     print("✅ Konfiguracja załadowana")
     print("🤖 Rozpoczynanie pracy bota...")
     
-    bot = AdvancedModerationBot()
+    bot = ModerationBot()
     bot.run(config["token"])
