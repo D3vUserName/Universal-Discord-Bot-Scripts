@@ -33,9 +33,11 @@ Single Commands/
 ├─ 4fun/
 │ ├─ 8ball.py
 │ ├─ animal.py
+│ ├─ hug.py
 │ ├─ jokes.py
 │ ├─ meme.py
 │ ├─ quote.py
+│ ├─ roll.py
 │ ├─ rps.py
 │ └─ trivia.py
 ├─ giveaway.py
